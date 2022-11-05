@@ -47,7 +47,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://https://commonmark.org/help/)
 
 
-
-
-
-
