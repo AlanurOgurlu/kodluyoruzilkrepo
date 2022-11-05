@@ -33,3 +33,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Kodluyoruz
+[Patika.dev](https://www.patika.dev )
+
