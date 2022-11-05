@@ -1,2 +1,0 @@
-HTMLAnchorElement
-HTMLUnknownElements
